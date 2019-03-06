@@ -1,1 +1,3 @@
 Ahora vamos aponer una primera línea de texto para ver que pasa
+agregamos una segunda fila de texto
+y una tercera
