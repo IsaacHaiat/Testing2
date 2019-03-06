@@ -1,3 +1,4 @@
-Ahora vamos aponer una primera l�nea de texto para ver que pasa
+Ahora vamos aponer una primera línea de texto para ver que pasa
 agregamos una segunda fila de texto
 y una tercera
+Ahora vamos a añadir una cuarta desde el repositorio remoto
